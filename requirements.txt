@@ -1,0 +1,7 @@
+streamlit
+openai
+faiss-cpu
+numpy
+nltk
+python-dotenv
+youtube-transcript-api
